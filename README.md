@@ -64,7 +64,7 @@ int soma(int num1, int num2){
 }
 ```
 
-As partes necessárias de uma declaração de função são:
+As partes necessárias para a declaração de uma função são:
 
 1. O tipo de retorno, que especifica o tipo do valor que a função retorna ou __void__ se nenhum valor é retornado. No C++ 11, **auto** é um tipo de retorno válido que instrui o compilador a inferir o tipo da instrução return.
 
