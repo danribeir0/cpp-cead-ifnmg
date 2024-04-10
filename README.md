@@ -62,6 +62,7 @@ Uma definição de função consiste em uma declaração mais o corpo da funçã
 int soma(int num1, int num2){
     return num1 + num2;
 }
+```
 
 As partes necessárias de uma declaração de função são:
 
