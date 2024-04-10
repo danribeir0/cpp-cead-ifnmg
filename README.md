@@ -101,3 +101,8 @@ O programa deve ter **uma função que calcule e retorne o IMC**
 Complemente o programa criando outra função que classifique o IMC de acordo com a tabela:
 
 ![Tabela de classificação do IMC](https://www.drrogermoura.com.br/images/artigos/tabela-imc.png)
+
+### 6. Desafio
+Crie um programa que calcule o fatorial de um número
+Use uma função para calcular o fatorial
+Transforme a sua função fatorial em uma função recursiva
