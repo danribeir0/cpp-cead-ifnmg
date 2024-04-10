@@ -4,18 +4,18 @@ Referência -> [Learn > Microsoft C++, C e Assembler > Documentação do C++ ](h
 
 ## Objetivos
 - Revisão rápida:
-    [X] História da linguagem
-	[X] Ambientes de Desenvolvimento
-	[X] Inputs e Outputs
-	[X] Tipos de dados - fortemente tipadas / fracamente tipadas
-	[X] Variáveis e Constantes
-	[X] Operadores unários, binários, ternários
-	[X] Operadores aritméticos
-	[X] Operadores relacionais
-	[X] Ordem de precedencia
-	[X] Condicionais
-	[X] Laços de repetição
-    [ ] Funções / métodos
-	[ ] Recursividade
-	[ ] Vetores
-	[ ] Estrutura de dados
+    - [X] História da linguagem
+	- [X] Ambientes de Desenvolvimento
+	- [X] Inputs e Outputs
+	- [X] Tipos de dados - fortemente tipadas / fracamente tipadas
+	- [X] Variáveis e Constantes
+	- [X] Operadores unários, binários, ternários
+	- [X] Operadores aritméticos
+	- [X] Operadores relacionais
+	- [X] Ordem de precedencia
+	- [X] Condicionais
+	- [X] Laços de repetição
+    - [ ] Funções / métodos
+	- [ ] Recursividade
+	- [ ] Vetores
+	- [ ] Estrutura de dados
