@@ -92,8 +92,12 @@ int main() {
 Uma função pode ter uma lista de parâmetros separada por vírgulas, cada um dos quais tem um tipo e um nome pelo qual pode ser acessado dentro do corpo da função.  
 Uma função pode ter parâmetros de tipos diferentes. O chamador/invocador passa argumentos, que são valores concretos cujos tipos são compatíveis com a lista de parâmetros.
 
-### 5. Atividade cálculo do IMC - Índice de Massa Corporal
+### 5. Atividade - Cálculo do IMC - Índice de Massa Corporal
 Mãos na massa.
 
 Criar um programa em C++ que receba o peso e a altura de uma pessoa e calcule o Índice de Massa Corporal.  
 O programa deve ter **uma função que calcule e retorne o IMC**  
+
+Complemente o programa criando outra função que classifique o IMC de acordo com a tabela:
+
+![Tabela de classificação do IMC](https://www.drrogermoura.com.br/images/artigos/tabela-imc.png)
