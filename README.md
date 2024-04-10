@@ -22,13 +22,13 @@ Referência -> [Learn > Microsoft C++, C e Assembler > Funções (C++) ](https:/
 	- [ ] Estrutura de dados
 
 - Funções
-    - [ ] Definição
-    - [ ] Declarando uma função
-    - [ ] Como chamar uma função
+    - [ ] O que é uma função?
+    - [ ] Declarando e definindo uma função (criando uma função)
+    - [ ] Como chamar uma função (usando a função)
     - [ ] Parâmetros e argumentos
     - [ ] Atividade cálculo do IMC - Índice de Massa Corporal
 
-### Funções - Definição
+### 1. O que é uma função?
 Uma função é um bloco de código que executa alguma operação.
 ```c++
 void minhaFuncao(){
@@ -49,7 +49,7 @@ int soma(int num1, int num2){
 }
 ```
 
-### Funções - Declarando uma função
+### 2. Declarando e definindo uma função (criando uma função)
 Uma declaração de função mínima consiste no **tipo de retorno**, **nome da função** e **lista de parâmetros** (que pode estar vazia).
 
 O seguinte exemplo é uma declaração de função:
@@ -78,6 +78,22 @@ auto soma(int num1, int num2){
 }
 ```
 
-### Funções - Como chamar uma função
-### Funções - Parâmetros e argumentos
-### Funções - Atividade cálculo do IMC - Índice de Massa Corporal
+### 3. Como chamar uma função (usando a função)
+Uma função pode ser invocada ou chamada de qualquer lugar do programa. Os valores que são passados para a função são os argumentos, cujos tipos devem ser compatíveis com os tipos de parâmetro na definição de função.
+
+```c++
+int main() {
+    minhaFuncao();
+    std::cout << soma(12, 27);
+}
+```
+
+### 4. Parâmetros e argumentos
+Uma função pode ter uma lista de parâmetros separada por vírgulas, cada um dos quais tem um tipo e um nome pelo qual pode ser acessado dentro do corpo da função.  
+Uma função pode ter parâmetros de tipos diferentes. O chamador/invocador passa argumentos, que são valores concretos cujos tipos são compatíveis com a lista de parâmetros.
+
+### 5. Atividade cálculo do IMC - Índice de Massa Corporal
+Mãos na massa.
+
+Criar um programa em C++ que receba o peso e a altura de uma pessoa e calcule o Índice de Massa Corporal.  
+O programa deve ter **uma função que calcule e retorne o IMC**  
