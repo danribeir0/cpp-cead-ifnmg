@@ -32,15 +32,17 @@ Referência -> [Learn > Microsoft C++, C e Assembler > Funções (C++) ](https:/
 Uma função é um bloco de código que executa alguma operação.
 ```c++
 void minhaFuncao(){
-    std::cout << "Você fez chamou a função 'minhaFuncao'"
+    std::cout << "Você chamou a função 'minhaFuncao'"
 }
 ```
 
-As funções são úteis para encapsular operações comuns em um só bloco reutilizável, idealmente com um nome que descreve de modo claro o que a função faz.  
-Opcionalmente, uma função pode definir parâmetros de entrada que permitem que os chamadores passem argumentos para a função.  
-Uma função também pode retornar um valor como saída.  
-A função a seguir aceita dois inteiros de um chamador e retorna sua soma; a e b são parâmetros do tipo int.  
+As funções são úteis para encapsular operações comuns em um só bloco reutilizável, idealmente com um nome que descreve de modo claro o que a função faz.
 
+Opcionalmente, uma função pode definir parâmetros de entrada que permitem que os chamadores passem argumentos para a função.
+
+Uma função também pode retornar um valor como saída.
+
+A função a seguir aceita dois inteiros de um chamador e retorna sua soma; a e b são parâmetros do tipo int.
 ```c++
 int soma(int num1, int num2){
     return num1 + num2;
