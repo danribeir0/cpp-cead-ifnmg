@@ -57,6 +57,26 @@ O seguinte exemplo é uma declaração de função:
 int soma(int a, int b);
 ```
 
+Uma definição de função consiste em uma declaração mais o corpo da função, que é todo o código entre as chaves:
+```c++
+int soma(int num1, int num2){
+    return num1 + num2;
+}
+
+As partes necessárias de uma declaração de função são:
+
+1. O tipo de retorno, que especifica o tipo do valor que a função retorna ou __void__ se nenhum valor é retornado. No C++ 11, **auto** é um tipo de retorno válido que instrui o compilador a inferir o tipo da instrução return.
+
+2. O nome da função, que deve começar com uma letra ou sublinhado e não pode conter espaços.
+
+3. A lista de parâmetros, um conjunto delimitado por parenteses, separados por vírgula, com nenhum ou mais parâmetros.
+
+```c++
+auto soma(int num1, int num2){
+    return num1 + num2;
+}
+```
+
 ### Funções - Como chamar uma função
 ### Funções - Parâmetros e argumentos
 ### Funções - Atividade cálculo do IMC - Índice de Massa Corporal
