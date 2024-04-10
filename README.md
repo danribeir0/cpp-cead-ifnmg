@@ -1,2 +1,2 @@
-# cpp-cead-ifnmg
-Aula teste / didática - Professor substituto CEAD IFNMG
+# C++ - Funções
+Prática - trabalhando com funções e recursividade
