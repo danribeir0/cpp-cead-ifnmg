@@ -3,6 +3,8 @@ Prática - trabalhando com funções e recursividade
 Referência -> [Learn > Microsoft C++, C e Assembler > Documentação do C++ ](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 Referência -> [Learn > Microsoft C++, C e Assembler > Funções (C++) ](https://learn.microsoft.com/pt-br/cpp/cpp/functions-cpp?view=msvc-170)
 
+[IDE Online Replit](https://replit.com/@danribeiro987/SpiritedDelightfulInfinity#main.cpp)
+
 ## Objetivos
 - Revisão rápida:
     - [X] História da linguagem
@@ -70,7 +72,7 @@ As partes necessárias para a declaração de uma função são:
 
 2. O nome da função, que deve começar com uma letra ou sublinhado e não pode conter espaços.
 
-3. A lista de parâmetros, um conjunto delimitado por parenteses, separados por vírgula, com nenhum ou mais parâmetros.
+3. A lista de parâmetros, um conjunto delimitado por parênteses, separados por vírgula, com nenhum ou mais parâmetros.
 
 ```c++
 auto soma(int num1, int num2){
@@ -101,6 +103,8 @@ O programa deve ter **uma função que calcule e retorne o IMC**
 Complemente o programa criando outra função que classifique o IMC de acordo com a tabela:
 
 ![Tabela de classificação do IMC](https://www.drrogermoura.com.br/images/artigos/tabela-imc.png)
+
+![Solução da atividade](./solucao-atividade.jpg)
 
 ### 6. Desafio
 Crie um programa que calcule o fatorial de um número
