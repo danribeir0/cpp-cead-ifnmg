@@ -6,7 +6,7 @@ Referência -> [Learn > Microsoft C++, C e Assembler > Documentação do C++ ](h
 
 Referência -> [Learn > Microsoft C++, C e Assembler > Funções (C++) ](https://learn.microsoft.com/pt-br/cpp/cpp/functions-cpp?view=msvc-170)
 
-[IDE Online Replit](https://replit.com/@danribeiro987/SpiritedDelightfulInfinity#main.cpp)
+[IDE Online Replit](https://replit.com/)
 
 ## Objetivos
 - Revisão rápida:
