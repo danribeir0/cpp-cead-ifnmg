@@ -19,11 +19,11 @@ Referência -> [Learn > Microsoft C++, C e Assembler > Funções (C++) ](https:/
 	- [X] Operadores relacionais
 	- [X] Operadores lógicos
 	- [X] Ordem de precedência
+	- [X] Vetores
 	- [X] Estruturas condicionais
 	- [X] Laços de repetição
     - [ ] Funções
 	- [ ] Recursividade - Funções Recursivas
-	- [ ] Vetores
 	- [ ] Estrutura de dados
 
 - Funções
